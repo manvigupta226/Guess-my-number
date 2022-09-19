@@ -1,3 +1,3 @@
 # Guess-my-number
 
-https://stellar-snickerdoodle-3bb2cd.netlify.app/
+https://euphonious-kulfi-ebc87e.netlify.app/
